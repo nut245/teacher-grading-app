@@ -1,0 +1,27 @@
+studentID  |first name |last name  |class      |grade     
+----------------------------------------------------------
+1          |Hannah     |Banana     |7 I        | None      
+2          |Liam       |Johnson    |7 I        | None      
+3          |Olivia     |Brown      |7 I        | None      
+4          |Noah       |Smith      |7 I        | None      
+5          |Emma       |Williams   |7 I        | None      
+6          |Sophia     |Taylor     |7 I        | None      
+7          |James      |Martin     |7 I        | None      
+8          |Isabella   |Clark      |7 I        | None      
+9          |Benjamin   |Lewis      |7 I        | None      
+10         |Mia        |Robinson   |7 I        | None      
+11         |Elijah     |Walker     |7 I        | None      
+12         |Amelia     |Young      |7 I        | None      
+13         |Lucas      |Hall       |7 I        | None      
+14         |Harper     |King       |7 I        | None      
+15         |Alexander  |Wright     |7 I        | None      
+16         |Evelyn     |Hill       |7 I        | None      
+17         |Daniel     |Scott      |7 I        | None      
+18         |Charlotte  |Green      |7 I        | None      
+19         |Jackson    |Adams      |7 I        | None      
+20         |Sofia      |Baker      |7 I        | None      
+21         |Aiden      |Harris     |7 I        | None      
+22         |Ava        |Campbell   |7 I        | None      
+23         |Mason      |Mitchell   |7 I        | None      
+24         |Ella       |Carter     |7 I        | None      
+25         |Logan      |Phillips   |7 I        | None      
